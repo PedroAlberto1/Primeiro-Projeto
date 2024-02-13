@@ -1,0 +1,53 @@
+body{
+    background-image: url(img/zoologico.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    background-repeat: no-repeat;
+    
+    background-position: center center;
+}
+  
+.padrao{
+    width: 650px;
+    margin:auto
+
+    
+
+}
+
+.alinharmenu{
+    width: 120px;
+    height: 60px;
+    padding: 5px;
+    text-align: center;
+    float: right;
+    line-height:50px;
+}
+
+#menu{
+    height: 68px;
+    background-color: rgb(49, 175, 49);
+    margin: auto;
+}
+
+
+.alinharmenu:hover{
+    background:rgb(1, 253, 1);
+}
+
+#padrão{
+        width: 1550px;
+        margin: auto;
+    
+}
+
+#conteudo{
+	width: 1100px;
+	margin-left: 10px;
+	font-size: 25px;
+	margin-top: 10px;
+}
+
+ #ajuste{
+	margin-left: 8px;
+}

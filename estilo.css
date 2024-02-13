@@ -1,0 +1,37 @@
+body{
+    background-image: url(img/zoologico.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-repeat: no-repeat;
+    
+    background-position: center center;
+}
+  
+.padrao{
+    width: 650px;
+    margin:auto
+
+    
+
+}
+
+.alinharmenu{
+    width: 120px;
+    height: 60px;
+    padding: 5px;
+    text-align: center;
+    float: right;
+    line-height:50px;
+}
+
+#menu{
+    height: 68px;
+    background-color: rgb(49, 175, 49);
+    margin: auto;
+}
+
+
+.alinharmenu:hover{
+    background:rgb(1, 253, 1);
+}
+
